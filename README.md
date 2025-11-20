@@ -1,10 +1,9 @@
-🎬 Filmovi – REST API aplikacija
+🎬 Kinematika – REST API aplikacija
 
-Filmovi je jednostavan i modularan Spring Boot REST API za upravljanje filmovima i njihovim recenzijama.
+Kinematika je jednostavan i modularan Spring Boot REST API za upravljanje filmovima i njihovim recenzijama.
 Aplikacija omogućava pregled filmova, dodavanje novih filmova, te dodavanje i prikaz korisničkih recenzija.
 
-//Napomena!!!!
-Trenutno je urađen samo backend dio aplikacije te uskoro radim i frontend
+
 🚀 Korištene tehnologije
 
 Backend aplikacija koristi sljedeće tehnologije:
