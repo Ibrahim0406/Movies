@@ -295,6 +295,3 @@ Build fajlovi će biti u `frontend/build/` direktorijumu.
 
 **Ibrahim Bišić**
 
-## 📄 Licenca
-
-Ovaj projekat je kreiran za edukativne svrhe.
