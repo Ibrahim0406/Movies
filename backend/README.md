@@ -349,7 +349,5 @@ Proverite `Config/CorsConfig.java` i ažurirajte allowed origins sa URL-om vaše
 
 **Ibrahim Bišić**
 
-## 📄 Licenca
 
-Ovaj projekat je kreiran za edukativne svrhe.
 
